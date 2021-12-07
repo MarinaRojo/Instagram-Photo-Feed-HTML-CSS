@@ -1,0 +1,51 @@
+body{
+    background-color: grey;
+    margin: 0 auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.titulo{
+    background-color: white;
+    padding:10px;
+    text-align: center;
+}
+
+
+.feed{
+    width: 50%;
+    margin: 0 auto;
+
+}
+.post{
+    background-color: white;
+    margin-top: 35px;
+
+}
+.header{
+    padding: 8px;
+    display:flex;
+}
+
+.titulo-foto h4{
+   margin-right: auto;
+   margin-top:0;
+   font-size: 1.2em;
+}
+
+.fecha{
+    margin-left:auto;
+    margin-right:5px;
+    width: 20%;
+    text-align: right;
+    color: gray
+
+}
+
+img{
+    width: 100%;
+
+}
+.texto{
+    padding: 10px;
+    justify-content: left;
+}
